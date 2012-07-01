@@ -1,0 +1,6 @@
+This database is currently incomplete, it is only a work in progress. You can always download and/or view the working database in this project or via this Google Docs link:
+https://docs.google.com/spreadsheet/ccc?key=0AlRrmx2rA2GKdE9WNEtrUFFqTWQ1NjdYR3RGV1lIRXc
+
+This text was copied from the official Cards Against Humanity PDF: https://s3.amazonaws.com/cah/CAH_MainGame.pdf
+
+Cards Against Humanity Website: http://cardsagainsthumanity.com/
